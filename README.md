@@ -21,8 +21,22 @@ rapper's native language from their English verses alone?
 - CHOOSE TRAINING TEXT CORPORA
 
 ## A tentative list of milestones for the project
-
-Add here a sketch of your planning for the coming weeks. Please mention who does what.
+| Milestone | Deadline | Who     |
+|---|---|---------|
+| README up with project plan | April 14 | All     |
+| Finalize language classes & artist lists | April 17 | All     |
+| Data collection – language group 1 (SoundCloud/Genius) | April 21 | All     |
+| Source & preprocess training text corpora | April 21 | TBD     |
+| **Project update 1** | **April 24** | **All** |
+| Data cleaning, language filtering, verse segmentation | April 28 | All     |
+| Baseline model (TF-IDF + classifier) | May 2 | TBD     |
+| Fine-tuning on lyrics data | May 5 | TBD     |
+| Evaluation & error analysis | May 7 | TBD     |
+| **Project update 2** | **May 8** | **All** |
+| Write report | May 12–18 | All     |
+| Prepare presentation slides | May 15–18 | All     |
+| **In-class presentations** | **May 19/22** | **All** |
+| **Final submission** | **May 22 23:59 CEST** | **All** |
 
 ## Documentation
 
