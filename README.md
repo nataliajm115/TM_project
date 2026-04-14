@@ -18,6 +18,9 @@ rapper's native language from their English verses alone?
 2. Are some native language backgrounds more "detectable" than others in English rap, and if so, why?
 
 ## Dataset
+- Soundcloud
+- Genius lyrics
+- CHOOSE TRAINING TEXT CORPORA
 
 ## A tentative list of milestones for the project
 
