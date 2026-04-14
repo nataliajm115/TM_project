@@ -6,12 +6,13 @@
 
 hiii
 
-This project investigates how fan discourse around major album releases evolves over time across multilingual online
-communities. Using Reddit and other platforms, we collect posts and comments in different languages
-surrounding 8–10 albums spanning 2016–2022, selected to represent distinct receptions. We apply sentiment analysis and
-topic modeling to track how opinion shifts from release day through the following month. As a secondary lens,
-we compare whether hype trajectories are consistent across language communities discussing the same album. Our findings
-aim to assess whether music hype is a global or a culturally specific phenomenon.
+Can you tell where a rapper is from just by reading their English lyrics? This project explores whether the native 
+language of a bilingual rapper leaves subtle fingerprints in the English verses they write. We focus on rappers of (CHOOSE
+LANGUAGES) native languages. We take a two-step approach: first we train the model on text corpora of non-native English
+writing to then fine-tune it on English lyrics. We specifically target underground artists as they are less likely to 
+have native English ghostwriters. Using classification we look for patterns that betray a rapper's roots unusual word 
+choices, rhyme schemes that feel "off" in English, and other traces of a first language peeking through. The bigger 
+question we're asking is: when you learn to rap in someone else's language, how much of your own do you bring with you?
 
 ## Research questions
 
