@@ -3,9 +3,6 @@
 ## Hype decay: temporal sentiment dynamics in multilingual fan discourse
 
 ## Abstract
-
-hiii
-
 Can you tell where a rapper is from just by reading their English lyrics? This project explores whether the native 
 language of a bilingual rapper leaves subtle fingerprints in the English verses they write. We focus on rappers of (CHOOSE
 LANGUAGES) native languages. We take a two-step approach: first we train the model on text corpora of non-native English
@@ -16,21 +13,11 @@ question we're asking is: when you learn to rap in someone else's language, how 
 
 ## Research questions
 
-1. Can the temporal evolution of fan sentiment on Reddit be used to classify album releases into distinct reception
-archetypes (hype collapse, slow burn, stable love, polarised)?
-2. What lexical and topical features characterize each archetype, and do early posts (first 48 hours) contain predictive
-signals of long-term reception?
-3. Do different language communities discussing the same album follow similar sentiment trajectories, or does hype
-behave differently across cultures?
-4. What aspects of an album does each language community foreground, and do these differ systematically?
+1. Can a classifier trained on non-native English writing corpora and fine-tuned on rap lyrics successfully identify a 
+rapper's native language from their English verses alone?
+2. Are some native language backgrounds more "detectable" than others in English rap, and if so, why?
 
 ## Dataset
-
-Our primary data source is Reddit, accessed via the Pushshift archive (Arctic Shift API), which provides historical
-posts and comments with timestamps, upvote counts, and full text. For each album in our corpus we collect all posts and
-top-level comments from the relevant artist subreddit (e.g. r/Kanye, r/FrankOcean, r/KendrickLamar) in a window spanning
-7 days before to 30 days after the release date. We estimate 500–15,000 comments per album depending on community size,
-yielding a total corpus of approximately 50,000–100,000 documents.
 
 ## A tentative list of milestones for the project
 
