@@ -1,6 +1,4 @@
-# Default repository template
-
-## Hype decay: temporal sentiment dynamics in multilingual fan discourse
+# Using NLP to Uncover Rappers' Linguistic Roots
 
 ## Abstract
 Can you tell where a rapper is from just by reading their English lyrics? This project explores whether the native 
