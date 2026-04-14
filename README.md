@@ -1,8 +1,7 @@
 # Using NLP to Uncover Rappers' Linguistic Roots
 
 ## Abstract
-Can you tell where a rapper is from just by reading their English lyrics? This project aims to explore whether a bilingual rapper leaves subtle traces of their native language in the English verses they write. We focus on rappers of (CHOOSE
-LANGUAGES) native languages. We will take a two-step approach: first we train the model on text corpora of non-native English
+Can you tell where a rapper is from just by reading their English lyrics? This project aims to explore whether a bilingual rapper leaves subtle traces of their native language in the English verses they write. We focus on rappers with Dutch, Spanish, French, Italian, Catalan, Russian, Serbo-Croatian or Portuguese as their native languages. We will limit ourselves to these Indo-European languages due to our own linguistic capacities and their relative abundance of tools within NLP.  We will take a two-step approach: first we train the model on text corpora of non-native English
 writing to then fine-tune it on English lyrics. We specifically target underground artists because they are less likely to 
 have native English ghostwriters. We will use classification to look for patterns that betray a rapper's roots like: unusual word 
 choices, unconventional idiom usage, rhyme schemes that feel "off" in English, and other traces of a first language peeking through. Our background as students in a multi-lingual space that is dominated by English (the majority's second language) invites us to think about the influence of the language you are or aren't speaking on what you say and how this is precieved. The bigger question we're asking is: when you learn to rap and express yourself in someone else's language, how much of your own do you bring with you?
