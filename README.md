@@ -18,7 +18,8 @@ rapper's native language from their English verses alone?
 ## Dataset
 - Soundcloud
 - Genius lyrics
-- CHOOSE TRAINING TEXT CORPORA
+- English Learner Corpus (e.g. ICLE) https://www.uclouvain.be/en/research-institutes/ilc/cecl/icle
+- Million Song Database http://millionsongdataset.com/
 
 ## A tentative list of milestones for the project
 | Milestone | Deadline | Who     |
