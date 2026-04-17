@@ -1,4 +1,5 @@
 # Using NLP to Uncover Rappers' Linguistic Roots
+Fella, Giorgia, Natalia, and Nico
 
 ## Abstract
 Can you tell where a rapper is from just by reading their English lyrics? This project aims to explore whether a bilingual rapper leaves subtle traces of their native language in the English verses they write. We focus on rappers with Dutch, Spanish, French, Italian, Catalan, Russian, Serbo-Croatian or Portuguese as their native languages. We will limit ourselves to these Indo-European languages due to our own linguistic capacities and their relative abundance of tools within NLP.  We will take a two-step approach: first we train the model on text corpora of non-native English
