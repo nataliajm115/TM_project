@@ -16,8 +16,13 @@ rapper's native language from their English verses alone?
 ## Dataset
 - Soundcloud
 - Genius lyrics
-- English Learner Corpus (e.g. ICLE) https://www.uclouvain.be/en/research-institutes/ilc/cecl/icle
 - Million Song Database http://millionsongdataset.com/
+- University of Pittsburg (Arabic, Chinese, Japanese, Korean, Spanish, and Turkish)
+https://eli-data-mining-group.github.io/Pitt-ELI-Corpus/
+https://github.com/ELI-Data-Mining-Group/PELIC-dataset
+- COREFL: Corpus of English as a Foreign Language (Spanish, Chinese, Czech, Estonian, German, French, Greek Italian, Turkish)
+https://corefl.learnercorpora.com/search_simple
+
 
 ## A tentative list of milestones for the project
 | Milestone | Deadline | Who     |
