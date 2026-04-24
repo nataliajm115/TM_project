@@ -22,7 +22,6 @@ https://eli-data-mining-group.github.io/Pitt-ELI-Corpus/
 https://github.com/ELI-Data-Mining-Group/PELIC-dataset
 - COREFL: Corpus of English as a Foreign Language (Spanish, Chinese, Czech, Estonian, German, French, Greek Italian, Turkish)
 https://corefl.learnercorpora.com/search_simple
-<img width="470" height="117" alt="image" src="https://github.com/user-attachments/assets/133cec49-a647-4de1-b0e0-30274f70e42f" />
 
 
 ## A tentative list of milestones for the project
