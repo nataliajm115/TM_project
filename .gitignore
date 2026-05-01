@@ -9,4 +9,4 @@ data/**
 # But re-include the final corpus
 !data/spanish/
 !data/spanish/processed/
-!data/spanish/processed/english_masked_corpus_spanish.csv
+!data/spanish/processed/*.csv

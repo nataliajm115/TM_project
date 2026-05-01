@@ -1,0 +1,8 @@
+artist_slug,artist_name,n_qualifying_songs,n_with_features,mean_english_ratio,total_lines,birthplace,birth_year,genre,country,enwiki_url,meets_song_minimum,L1_confirmed,raised_in,age_moved_if_applicable,L1_confidence_high_med_low,verification_sources,decision_include_exclude,notes
+arca,Arca,3,0,1.0,62,Caracas,1989.0,experimental music; neoperreo,ES,https://en.wikipedia.org/wiki/Arca_(musician),True,,,,,,,
+juan_magán,Juan Magán,3,0,0.710927960927961,46,Badalona,1978.0,electro latino; house music,ES,https://en.wikipedia.org/wiki/Juan_Mag%C3%A1n,True,,,,,,,
+candyman,CandyMan,2,0,0.9722222222222222,29,Santiago de Cuba,,,CU,https://en.wikipedia.org/wiki/Candyman_(singer),True,,,,,,,
+noztra,Noztra,2,2,0.5505952380952381,68,,1982.0,reggaeton,,https://en.wikipedia.org/wiki/Noztra,True,,,,,,,
+tote_king,Tote King,2,1,0.6018099547511313,30,Seville,1978.0,hip-hop,,https://en.wikipedia.org/wiki/Tote_King,True,,,,,,,
+arianna_puello,Arianna Puello,1,0,0.68,25,San Pedro de Macorís,1977.0,rapping,ES,https://en.wikipedia.org/wiki/Arianna_Puello,True,,,,,,,
+mala_rodríguez,Mala Rodríguez,1,1,0.696969696969697,66,Jerez de la Frontera,1979.0,Latin hip-hop; alternative hip-hop; flamenco; reggaeton,ES,https://en.wikipedia.org/wiki/Mala_Rodr%C3%ADguez,True,,,,,,,
