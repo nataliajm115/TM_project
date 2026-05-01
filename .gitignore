@@ -1,7 +1,12 @@
 .DS_Store
 .idea/
 .env
-data/
 .ipynb_checkpoints/
-data/
-.ipynb_checkpoints/
+
+# Ignore everything inside data/ by default
+data/**
+
+# But re-include the final corpus
+!data/spanish/
+!data/spanish/processed/
+!data/spanish/processed/english_masked_corpus_spanish.csv
