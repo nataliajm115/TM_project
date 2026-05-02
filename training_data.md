@@ -21,7 +21,7 @@ The corpus is publicly available at [github.com/ELI-Data-Mining-Group/PELIC-data
 
 PELIC is well-suited as the **training set** for our cross-register NLI experiment for several reasons:
 
-1. **Sufficient scale per L1.** With over 150K samples across multiple native languages, PELIC provides enough Spanish-L1 data to train a classifier that learns L1-specific transfer patterns rather than overfitting to individual writers.
+1. **Sufficient scale per L1.** With over 150K samples across multiple native languages, PELIC provides enough L1 data to train a classifier that learns L1-specific transfer patterns rather than overfitting to individual writers.
 
 2. **Student-level metadata.** The `anon_id` column allows us to split data at the student level (rather than the sample level), preventing data leakage where the same writer's texts appear in both training and evaluation sets.
 
