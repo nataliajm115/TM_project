@@ -10,3 +10,4 @@ data/**
 !data/spanish/
 !data/spanish/processed/
 !data/spanish/processed/*.csv
+vendor/
