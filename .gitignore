@@ -8,5 +8,6 @@ data/**
 
 # But re-include the final corpus
 !data/combined/
+!data/combined/**
 
 vendor/
