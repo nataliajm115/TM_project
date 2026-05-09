@@ -10,4 +10,13 @@ data/**
 !data/spanish/
 !data/spanish/processed/
 !data/spanish/processed/*.csv
+
+!data/italian/
+!data/italian/processed/
+!data/italian/processed/*.csv
+
+!data/french/
+!data/french/processed/
+!data/french/processed/*.csv
+
 vendor/
