@@ -1,0 +1,12 @@
+artist_slug,artist_name,n_qualifying_songs,n_with_features,mean_english_ratio,total_lines,birthplace,birth_year,genre,country,enwiki_url,meets_song_minimum,L1_confirmed,raised_in,age_moved_if_applicable,L1_confidence_high_med_low,verification_sources,decision_include_exclude,notes
+youssoupha,Youssoupha,2,2,0.36506575185820467,119,Kinshasa,1979.0,alternative hip-hop; hip-hop,FR,https://en.wikipedia.org/wiki/Youssoupha,True,,,,,,,
+aloïse_sauvage,Aloïse Sauvage,1,0,0.43283582089552236,67,,1992.0,hip-hop,FR,https://en.wikipedia.org/wiki/Alo%C3%AFse_Sauvage,True,,,,,,,
+dooz_kawa,Dooz Kawa,1,1,0.1875,80,Chartres,1980.0,,FR,https://en.wikipedia.org/wiki/Dooz_Kawa,True,,,,,,,
+freeze_corleone,Freeze Corleone,1,1,0.3442622950819672,61,Les Lilas,1992.0,French hip-hop; cloud rap; drill; trap music,FR,https://en.wikipedia.org/wiki/Freeze_Corleone,True,,,,,,,
+kaaris,Kaaris,1,1,0.5,74,Abidjan,1980.0,French hip-hop; trap music,FR,https://en.wikipedia.org/wiki/Kaaris,True,,,,,,,
+laylow,Laylow,1,1,0.3333333333333333,39,Toulouse,1993.0,,FR,https://en.wikipedia.org/wiki/Laylow,True,,,,,,,
+lomepal,Lomepal,1,0,0.19117647058823528,68,Paris,1991.0,French hip-hop,FR,https://en.wikipedia.org/wiki/Lomepal,True,,,,,,,
+népal,Népal,1,1,0.21794871794871795,78,14th arrondissement of Paris,1990.0,French hip-hop,FR,https://en.wikipedia.org/wiki/N%C3%A9pal_(rapper),True,,,,,,,
+orelsan,Orelsan,1,1,0.24786324786324787,117,Alençon,1982.0,French hip-hop,FR,https://en.wikipedia.org/wiki/Orelsan,True,,,,,,,
+sinik,Sinik,1,0,0.5238095238095238,84,4th arrondissement of Paris,1980.0,French hip-hop,FR,https://en.wikipedia.org/wiki/Sinik,True,,,,,,,
+soprano,Soprano,1,1,0.40789473684210525,76,Marseille,1979.0,hip-hop; pop music; pop rap,FR,https://en.wikipedia.org/wiki/Soprano_(rapper),True,,,,,,,
