@@ -1,5 +1,19 @@
-artist_slug,artist_name,song_id,title,url,text,word_count,english_ratio,n_english_lines,n_total_lines,featured_artists,L1,genius_artist_id,lyrics,english_only_text,english_word_count
-dooz_kawa,Dooz Kawa,2464249,Brako,https://genius.com/Dooz-kawa-brako-lyrics,,,0.1875,15,80,Hippocampe Fou,french,26970.0,"Come sit with me, we can wonder what's to come together
+artist_slug,artist_name,song_id,title,url,text,word_count,english_ratio,n_english_lines,n_total_lines,featured_artists,L1,genius_artist_id,lyrics,english_word_count
+dooz_kawa,Dooz Kawa,2464249,Brako,https://genius.com/Dooz-kawa-brako-lyrics,"Come sit with me, we can wonder what's to come together
+Come, be with me, we can come together and wonder
+Come follow me, let me show you we were made for each other
+And go on like this for ever and ever and ever and ever
+And ever
+Come sit with me, we can wonder what's to come together
+Come, be with me, we can come together and wonder
+Come follow me, let me show you we were made for each other
+And go on like this for ever and ever and ever and ever
+And ever
+Come sit with me, we can wonder what's to come together
+Come, be with me, we can come together and wonder
+Come follow me, let me show you we were made for each other
+And go on like this for ever and ever and ever and ever
+And ever",,0.1875,15,80,Hippocampe Fou,french,26970.0,"Come sit with me, we can wonder what's to come together
 Come, be with me, we can come together and wonder
 Come follow me, let me show you we were made for each other
 And go on like this for ever and ever and ever and ever
@@ -87,22 +101,20 @@ Come sit with me, we can wonder what's to come together
 Come, be with me, we can come together and wonder
 Come follow me, let me show you we were made for each other
 And go on like this for ever and ever and ever and ever
-And ever","Come sit with me, we can wonder what's to come together
-Come, be with me, we can come together and wonder
-Come follow me, let me show you we were made for each other
-And go on like this for ever and ever and ever and ever
-And ever
-Come sit with me, we can wonder what's to come together
-Come, be with me, we can come together and wonder
-Come follow me, let me show you we were made for each other
-And go on like this for ever and ever and ever and ever
-And ever
-Come sit with me, we can wonder what's to come together
-Come, be with me, we can come together and wonder
-Come follow me, let me show you we were made for each other
-And go on like this for ever and ever and ever and ever
 And ever",147.0
-laylow,Laylow,6962412,FALLEN ANGELS,https://genius.com/Laylow-fallen-angels-lyrics,,,0.3333333333333333,13,39,slowthai,french,308564.0,"Playin'
+laylow,Laylow,6962412,FALLEN ANGELS,https://genius.com/Laylow-fallen-angels-lyrics,"All the shit I did, it was just for fun
+These people testin' me, they can suck their mum
+All these things that they said but they never done
+I won't ever stop until they're said and done, said enough
+He's always on my A zone, I've been navigating, say somethin'
+These people tryna turn things, I say some
+I know a lot of snitches that cannot stay drunk
+I'd say it's my fault, but you just wanna play me soft, hey
+You just wanna play me, so-o-o-o-oft
+All the shit I did, it was just for fun
+These people testin' me, they can suck their mum
+All these things they said but they never done
+I won't ever stop until they're said and done, said enough",,0.3333333333333333,13,39,slowthai,french,308564.0,"Playin'
 All the shit I did, it was just for fun
 These people testin' me, they can suck their mum
 All these things that they said but they never done
@@ -144,20 +156,31 @@ I won't ever stop until they're said and done, said enough
 J'ai des démons, des anges qui m'volent au-dessus d'la tête
 J'ai plein d'problèmes mais rien que j'peux pas surmonter
 Fuck vivre pour eux, j'le fais pour le fun
-Fuck, j'laisse sonner quand la vraie vie m'appelle","All the shit I did, it was just for fun
-These people testin' me, they can suck their mum
-All these things that they said but they never done
-I won't ever stop until they're said and done, said enough
-He's always on my A zone, I've been navigating, say somethin'
-These people tryna turn things, I say some
-I know a lot of snitches that cannot stay drunk
-I'd say it's my fault, but you just wanna play me soft, hey
-You just wanna play me, so-o-o-o-oft
-All the shit I did, it was just for fun
-These people testin' me, they can suck their mum
-All these things they said but they never done
-I won't ever stop until they're said and done, said enough",127.0
-nitro,Nitro,1930029,Pleasantville,https://genius.com/Nitro-pleasantville-lyrics,,,0.2068965517241379,24,116,,italian,66525.0,"Something's got a hold on my mind
+Fuck, j'laisse sonner quand la vraie vie m'appelle",127.0
+nitro,Nitro,1930029,Pleasantville,https://genius.com/Nitro-pleasantville-lyrics,"Something's got a hold on my mind
+Living in a life that's not mine
+I know there's million of folks to meet
+But they just passed in the street
+Something's got a hold on my mind
+Living in a life that's not mine
+Know there's million of folks to meet
+But they just passed in the street
+Something's got a hold on my mind
+Living in a life that's not mine
+Know there's million of folks to meet
+But they just passed in the street
+Somethings got a hold on my mind
+I'm living in a life that's not mine
+I know there's million of folks to meet
+But they just passed in the street
+Something's got a hold on my mind
+Living in a life that's not mine
+Know there's million of folks to meet
+But they just passed in the street
+Something's got a hold on my mind
+Living in a life that's not mine
+Know there's million of folks to meet
+But they just passed in the street",,0.2068965517241379,24,116,,italian,66525.0,"Something's got a hold on my mind
 Living in a life that's not mine
 I know there's million of folks to meet
 But they just passed in the street
@@ -279,31 +302,28 @@ Something's got a hold on my mind
 Living in a life that's not mine
 Know there's million of folks to meet
 But they just passed in the street
-Maybe love...","Something's got a hold on my mind
-Living in a life that's not mine
-I know there's million of folks to meet
-But they just passed in the street
-Something's got a hold on my mind
-Living in a life that's not mine
-Know there's million of folks to meet
-But they just passed in the street
-Something's got a hold on my mind
-Living in a life that's not mine
-Know there's million of folks to meet
-But they just passed in the street
-Somethings got a hold on my mind
-I'm living in a life that's not mine
-I know there's million of folks to meet
-But they just passed in the street
-Something's got a hold on my mind
-Living in a life that's not mine
-Know there's million of folks to meet
-But they just passed in the street
-Something's got a hold on my mind
-Living in a life that's not mine
-Know there's million of folks to meet
-But they just passed in the street",171.0
-nitro,Nitro,498985,Margot,https://genius.com/Nitro-margot-lyrics,,,0.2307692307692307,21,91,,italian,66525.0,"She was so good to me
+Maybe love...",171.0
+nitro,Nitro,498985,Margot,https://genius.com/Nitro-margot-lyrics,"She was so good to me
+I've never listened
+To words of advice from my friends
+(You was so good to me once)
+Life was for living
+Life was for loving
+I had the loving to give
+Life was for living
+Life was for loving
+I had the loving to give
+(You was so good to me once)
+(You was so good to me once)
+Life was for living
+Life was for loving
+I had the loving to give
+Life was for living
+Life was for loving
+I had the loving to give
+You was so good to me once
+Life, what makes me so sad
+That I cry every hour?",,0.2307692307692307,21,91,,italian,66525.0,"She was so good to me
 I've never listened
 To words of advice from my friends
 
@@ -398,28 +418,23 @@ I had the loving to give
 You was so good to me once
 Now you turn sour
 Life, what makes me so sad
-That I cry every hour?","She was so good to me
-I've never listened
-To words of advice from my friends
-(You was so good to me once)
-Life was for living
-Life was for loving
-I had the loving to give
-Life was for living
-Life was for loving
-I had the loving to give
-(You was so good to me once)
-(You was so good to me once)
-Life was for living
-Life was for loving
-I had the loving to give
-Life was for living
-Life was for loving
-I had the loving to give
-You was so good to me once
-Life, what makes me so sad
 That I cry every hour?",111.0
-nitro,Nitro,2017546,The Same Old Story,https://genius.com/Nitro-the-same-old-story-lyrics,,,0.2025316455696202,16,79,,italian,66525.0,"Eh-na-na-na
+nitro,Nitro,2017546,The Same Old Story,https://genius.com/Nitro-the-same-old-story-lyrics,"Un-Un-Un-Unlimited Struggle, baby
+My face got bloody, the same old story
+It's the same old story
+It's the same old story
+My face got bloody, the same old story
+No game, no money, the same old story
+It's the same old story
+It's the same old story
+I'll never feel better, surrender there's no heaven
+I'll never feel better, surrender there's no heaven
+My face got bloody, the same old story
+No game, no money, the same old story
+It's the same old story
+It's the same old story
+I'll never feel better, surrender there's no heaven
+I'll never feel better, surrender there's no heaven",,0.2025316455696202,16,79,,italian,66525.0,"Eh-na-na-na
 Eh-na-na-na-nai
 Yo
 Un-Un-Un-Unlimited Struggle, baby
@@ -505,23 +520,52 @@ No game, no money, the same old story
 It's the same old story
 It's the same old story
 I'll never feel better, surrender there's no heaven
-I'll never feel better, surrender there's no heaven","Un-Un-Un-Unlimited Struggle, baby
-My face got bloody, the same old story
-It's the same old story
-It's the same old story
-My face got bloody, the same old story
-No game, no money, the same old story
-It's the same old story
-It's the same old story
-I'll never feel better, surrender there's no heaven
-I'll never feel better, surrender there's no heaven
-My face got bloody, the same old story
-No game, no money, the same old story
-It's the same old story
-It's the same old story
-I'll never feel better, surrender there's no heaven
 I'll never feel better, surrender there's no heaven",105.0
-salmo,Salmo,303203,Blood Shake,https://genius.com/Salmo-blood-shake-lyrics,,,0.6521739130434783,45,69,Dope D.O.D.,italian,33882.0,"Dead niggas on the premises I sin yeah
+salmo,Salmo,303203,Blood Shake,https://genius.com/Salmo-blood-shake-lyrics,"Zulu nigga with a motherfucking thin spear
+I've been clear get yo' fucking ass in here
+The shit niggas talk don’t impress cos' I’ve been there
+I've done that motherfuckers best to run back
+Cos' niggas don't bust like us
+Don't crush like us
+Sniff a little dust and I feel buff like buzz
+You ain't ready for this nigga Balotelli
+Pelli Pelli getting sweaty
+Cos I'm freakin' with your favorite baby
+You got a rain check I came to bring the pain back
+Rough neck swinging with the motherfuckin' cane back
+Yes we've been endorsed by four horsemen of course awesome
+Never lost to first caution I floss often like I'm Mark Boss I'm cautious
+Yeh, now headbang until you're nauseous
+See when I come in I'm sweating like the running man
+Game of deaths Skits V got the upper hand
+You and your girlfriends yeah your buddy's next
+Blood thirsty I stalk with the full clip
+Walk my dog after dark when the moons lit
+I follow footprints equipped with a tool kit
+It's clockwork when my mood shift is Kubrick
+I pump a fool with a lethal dosage watch their eyeballs pop out like harlequin ichtyosis
+Try to trespass my yard full of deadly Dobers
+I wash the blood from their fur with some head and shoulders
+Cold case no trace come through
+Chopping off heads with the machete crew
+Way too hard for the hit list
+So I take down the stars on my shit-list
+Ciao Bella it's the English-Dutch fella
+You know it's rain of terror when we collab together
+You're light as a feather
+Break under pressure
+Off the fucking charts man you can't even measure
+Join the adventure we out for the treasure
+Heads get severed, it's all my pleasure
+It's doomsday so we melt down the cheddar
+You know Dopey Rotten as the nutty professor
+Never will I give up I will be here forever
+Chop you up, body parts in the blender
+Never surrender, I always remember
+Gone til November you'll find me in Denver
+Big up Maurizio it's a joint venture
+Your world of pain has just ended
+No you won't survive because your chances are slender",,0.6521739130434783,45,69,Dope D.O.D.,italian,33882.0,"Dead niggas on the premises I sin yeah
 Zulu nigga with a motherfucking thin spear
 I've been clear get yo' fucking ass in here
 The shit niggas talk don’t impress cos' I’ve been there
@@ -592,52 +636,26 @@ Dio mi parla nel sonno, dice: ""Dividi le masse""
 Chiede se i politici pagano mai le tasse
 Per lo show chiama tre volte 6
 Per il flow non serve translate
-Shake, shake, shake your blood","Zulu nigga with a motherfucking thin spear
-I've been clear get yo' fucking ass in here
-The shit niggas talk don’t impress cos' I’ve been there
-I've done that motherfuckers best to run back
-Cos' niggas don't bust like us
-Don't crush like us
-Sniff a little dust and I feel buff like buzz
-You ain't ready for this nigga Balotelli
-Pelli Pelli getting sweaty
-Cos I'm freakin' with your favorite baby
-You got a rain check I came to bring the pain back
-Rough neck swinging with the motherfuckin' cane back
-Yes we've been endorsed by four horsemen of course awesome
-Never lost to first caution I floss often like I'm Mark Boss I'm cautious
-Yeh, now headbang until you're nauseous
-See when I come in I'm sweating like the running man
-Game of deaths Skits V got the upper hand
-You and your girlfriends yeah your buddy's next
-Blood thirsty I stalk with the full clip
-Walk my dog after dark when the moons lit
-I follow footprints equipped with a tool kit
-It's clockwork when my mood shift is Kubrick
-I pump a fool with a lethal dosage watch their eyeballs pop out like harlequin ichtyosis
-Try to trespass my yard full of deadly Dobers
-I wash the blood from their fur with some head and shoulders
-Cold case no trace come through
-Chopping off heads with the machete crew
-Way too hard for the hit list
-So I take down the stars on my shit-list
-Ciao Bella it's the English-Dutch fella
-You know it's rain of terror when we collab together
-You're light as a feather
-Break under pressure
-Off the fucking charts man you can't even measure
-Join the adventure we out for the treasure
-Heads get severed, it's all my pleasure
-It's doomsday so we melt down the cheddar
-You know Dopey Rotten as the nutty professor
-Never will I give up I will be here forever
-Chop you up, body parts in the blender
-Never surrender, I always remember
-Gone til November you'll find me in Denver
-Big up Maurizio it's a joint venture
-Your world of pain has just ended
-No you won't survive because your chances are slender",367.0
-salmo,Salmo,2899418,Don Medellín,https://genius.com/Salmo-don-medellin-lyrics,,,0.2638888888888889,19,72,Rose Villain,italian,33882.0,"[Intro: Rose Villain & 
+Shake, shake, shake your blood",367.0
+salmo,Salmo,2899418,Don Medellín,https://genius.com/Salmo-don-medellin-lyrics,"Dancing with the devil
+Dancing with the devil
+We're high before the show
+Parla poco, dice solo: ""I'm in love with the coco""
+Dancing with the devil
+Take it nice and slow
+We're high before the show
+And I look like an angel
+But I don't have a soul
+Singing with the devil
+And my lips taste like blow
+Dancing with the devil
+Take it nice and slow
+We're high before the show
+And I look like an angel
+But I don't have a soul
+Singing with the devil
+And my lips taste like blow
+So baby be careful when you dance with the devil",,0.2638888888888889,19,72,Rose Villain,italian,33882.0,"[Intro: Rose Villain & 
 Salmo
 ]
 Dancing with the devil
@@ -721,26 +739,28 @@ And my lips taste like blow
 Don Medellín, Don Medellín
 Do-Don Medellín, Do-Don Medellín
 
-So baby be careful when you dance with the devil","Dancing with the devil
-Dancing with the devil
-We're high before the show
-Parla poco, dice solo: ""I'm in love with the coco""
-Dancing with the devil
-Take it nice and slow
-We're high before the show
-And I look like an angel
-But I don't have a soul
-Singing with the devil
-And my lips taste like blow
-Dancing with the devil
-Take it nice and slow
-We're high before the show
-And I look like an angel
-But I don't have a soul
-Singing with the devil
-And my lips taste like blow
 So baby be careful when you dance with the devil",105.0
-salmo,Salmo,2417924,Il messia,https://genius.com/Salmo-il-messia-lyrics,,,0.2413793103448276,21,87,Travis Barker; Victor Kwality,italian,33882.0,"Some of dem talk ""The righteous way""
+salmo,Salmo,2417924,Il messia,https://genius.com/Salmo-il-messia-lyrics,"Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion
+Some of dem talk ""The righteous way""
+But dem never try to walk through Zion
+Dem never try to walk through Zion",,0.2413793103448276,21,87,Travis Barker; Victor Kwality,italian,33882.0,"Some of dem talk ""The righteous way""
 Even pray Jah Jah everyday
 But dem never try to walk through Zion
 Dem never try to walk through Zion
@@ -830,27 +850,7 @@ Some of dem talk ""The righteous way""
 Even pray Jah Jah everyday
 But dem never try to walk through Zion
 Dem never try to walk through Zion
-Never...","Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion
-Some of dem talk ""The righteous way""
-But dem never try to walk through Zion
-Dem never try to walk through Zion",154.0
+Never...",154.0
 candyman,CandyMan,12719,Knockin’ Boots,https://genius.com/Candyman-knockin-boots-lyrics,"The Candyman is on the prowl
 And for those that wanna get busy
 You gots to speak up now
@@ -906,7 +906,7 @@ Fila Al, Big Dill, and D Fly
 We ask the questions, you give the reply
 MC Chip, Big Rob and Bud
 Rockin' on the waterbed, knockin' on the rugs
-I'm just playin', what I'm sayin' ain't ill",486.0,0.8484848484848485,56,66,,spanish,,,,
+I'm just playin', what I'm sayin' ain't ill",486.0,0.8484848484848485,56,66,,spanish,,,
 candyman,CandyMan,1096777,Melt In Your Mouth,https://genius.com/Candyman-melt-in-your-mouth-lyrics,"This one goes out
 To all the suckers out there
 Who thought I was soft
@@ -985,7 +985,7 @@ Because I melt in your mouth, not in your hand
 Melt in your mouth
 Melt in your mouth
 Melt in your mouth
-Melt in your mouth, not in your hand",671.0,0.8777777777777778,79,90,,spanish,,,,
+Melt in your mouth, not in your hand",671.0,0.8777777777777778,79,90,,spanish,,,
 candyman,CandyMan,12721,Candyman Theme,https://genius.com/Candyman-candyman-theme-lyrics,"Cause I really know you can
 Ooooh, cause I really know you can
 The rhymes I write, never bite, never borrowin
@@ -1013,7 +1013,7 @@ Sometimes it amazes me, when you have to face me
 You won't have to chase me cause basically, here I stand
 And I'll be your Candyman
 I want you to be
-I want you to be",246.0,0.6222222222222222,28,45,,spanish,,,,
+I want you to be",246.0,0.6222222222222222,28,45,,spanish,,,
 candyman,CandyMan,1208720,Knockin’ Boots (Radio Mix),https://genius.com/Candyman-knockin-boots-radio-mix-lyrics,"The Candyman is on the prowl
 And for those that wanna get busy
 You gots to speak up now
@@ -1081,7 +1081,7 @@ We ask the questions, you give the reply
 MC Chip, Big Rob and Bud
 Rockin' on the waterbed, knockin' on the rugs
 I'm just playin', what I'm sayin' ain't ill
-Girl you should know I'm real",467.0,0.7906976744186046,68,86,,spanish,,,,
+Girl you should know I'm real",467.0,0.7906976744186046,68,86,,spanish,,,
 candyman,CandyMan,12733,Playin’ On Me,https://genius.com/Candyman-playin-on-me-lyrics,"In a hotel wakin up another day in showbiz
 Kiss the redhead in my bed, knowin not who she is
 Plug the phone back in the socket watch the light blink on the ringer
@@ -1147,7 +1147,7 @@ Material things don't mean nothin to me Candy without your love
 But as long as we gon' be together, me and you
 There's just one thing I expect of you
 Yeah what's that?
-Don't be playin on me",609.0,0.9565217391304348,66,69,,spanish,,,,
+Don't be playin on me",609.0,0.9565217391304348,66,69,,spanish,,,
 candyman,CandyMan,12722,Nightgown,https://genius.com/Candyman-nightgown-lyrics,"Stepped into the party at a half past nine
 Was tryin to wine and dine another heiny, shoot
 (You could just knock those boots)
@@ -1190,7 +1190,7 @@ This is no he say or she say
 When I say to you it's on
 I mean like Donkey Kong 'til the break of dawn
 Didn't take long 'til I heard that familiar sound
-(Ahh) I finally saw her nightgown",368.0,0.86,43,50,,spanish,,,,
+(Ahh) I finally saw her nightgown",368.0,0.86,43,50,,spanish,,,
 candyman,CandyMan,12725,Today’s Topic,https://genius.com/Candyman-todays-topic-lyrics,"Hi, I'm your host John Rondo Riviera
 And today's topic is rap, and its effect on our world today
 And guests on our panel today are
@@ -1241,7 +1241,7 @@ A young black rapper so you have to get nervous
 Stereotype, a few of us might, but I just write
 What you as the public want to tap into
 They can't stop this so this is the way I GOTTA drop it
-Today's topic",432.0,0.85,51,60,,spanish,,,,
+Today's topic",432.0,0.85,51,60,,spanish,,,
 candyman,CandyMan,11610571,Jiggy,https://genius.com/Candyman-jiggy-lyrics,"*Mom! Phineas and Ferb are making a title sequence.*
 I be chasing all this paper, Like I gotta point to prove
 I be chasing all this money, tryna chase that dividends
@@ -1271,7 +1271,7 @@ You can cuff the bop but that bitch still gon' run the team
 You want a forty load, lil boy come shop with YJB
 You really not the plug, lil boy you just the refugee
 I'm just tryna make it, get that skrilla, feed the team
-Ran off on the plug, buck the jack, I'm pullin' schemes, yeah",318.0,0.6666666666666666,30,45,9lokkNine; Cutthroat Louie,spanish,,,,
+Ran off on the plug, buck the jack, I'm pullin' schemes, yeah",318.0,0.6666666666666666,30,45,9lokkNine; Cutthroat Louie,spanish,,,
 juan_magán,Juan Magán,2449040,Baila Conmigo,https://genius.com/Juan-magan-baila-conmigo-lyrics,"I'm about to lose control
 Like there's no tomorrow
 Come on let the feel
@@ -1293,7 +1293,7 @@ You do whatever you like, Eh-oh-oh-oh-oh
 I give you the green light to do whatever you like
 Because baby anything can happen at the end of the night
 Not shy, you're taking the bite
-You do whatever you like",143.0,0.5116279069767442,22,43,Luciana,spanish,,,,
+You do whatever you like",143.0,0.5116279069767442,22,43,Luciana,spanish,,,
 juan_magán,Juan Magán,3876700,Echa Pa Aca,https://genius.com/Juan-magan-echa-pa-aca-lyrics,"History in the making
 I'm a mover, shaker, go getta, hustler
 Don't stop, get it, get it, baby, trust me
@@ -1309,7 +1309,7 @@ In the hood, and I'm serving up the elbows
 Bad, bad, oh she bad
 Bad, bad, oh she bad
 I'ma put her in a Porsche (woo)
-She gon' ride like a sport",122.0,0.2285714285714285,16,70,Rj Word; Rich The Kid; Pitbull,spanish,,,,
+She gon' ride like a sport",122.0,0.2285714285714285,16,70,Rj Word; Rich The Kid; Pitbull,spanish,,,
 juan_magán,Juan Magán,4335898,Internacional,https://genius.com/Juan-magan-internacional-lyrics,"México, Brasil, now we got a deal
 This worldwide, hustlin' the rings
 André Truth makes it happen, in Spanish he askin'
@@ -1332,7 +1332,7 @@ We'll see the Bahamas and Cuba
 Eat, swim, jet ski and scuba
 Life should be one big party
 The final destination's your body
-I'll do you like no one does",181.0,0.323943661971831,23,71,André Truth; CeeLo Green,spanish,,,,
+I'll do you like no one does",181.0,0.323943661971831,23,71,André Truth; CeeLo Green,spanish,,,
 juan_magán,Juan Magán,1942901,2fly,https://genius.com/Juan-magan-2fly-lyrics,"I don´t wanna make cry cry cry cry
 I just wanna teach you fly, fly fly, fly
 Just tonight forget the bla bla bla bla
@@ -1364,7 +1364,7 @@ I just wanna teach you fly, fly fly, fly
 Just tonight forget the bla bla bla bla
 I just wanna set you free
 I just wanna make you fly
-I don´t wanna make you cry",248.0,0.6808510638297872,32,47,,spanish,,,,
+I don´t wanna make you cry",248.0,0.6808510638297872,32,47,,spanish,,,
 juan_magán,Juan Magán,2817336,Latina En Ibiza,https://genius.com/Juan-magan-latina-en-ibiza-lyrics,"Make this a night we will never forget
 Feeling my own, then she goes
 Trap that low, nice is all
@@ -1381,7 +1381,7 @@ Feeling my own, then she goes
 Trap that low, nice is all
 Make this a night we will never forget
 Feeling my own, then she goes
-Trap that low, nice is all",122.0,0.288135593220339,17,59,Dasoul; Nayer,spanish,,,,
+Trap that low, nice is all",122.0,0.288135593220339,17,59,Dasoul; Nayer,spanish,,,
 juan_magán,Juan Magán,12356744,Truth Or Dare,https://genius.com/Juan-magan-brando-and-eleni-foureira-truth-or-dare-lyrics,"Oh I, never been the one for conversation
 No, don't be subtle, gimme some trouble
 'Cause if we know what's coming, why we waiting, waiting?
@@ -1408,7 +1408,7 @@ You say what's it take to take you there
 I'll tell you to go down slowly, your eyes on me
 Let's play truth or dare
 You say what’s it take to take you there
-I'll tell you to go down slowly",198.0,0.4909090909090909,27,55,,spanish,,,,
+I'll tell you to go down slowly",198.0,0.4909090909090909,27,55,,spanish,,,
 juan_magán,Juan Magán,5039884,Pienso En El Momento,https://genius.com/Juan-magan-pienso-en-el-momento-lyrics,"Baby, make me your selection
 Give me all that I've been asking for, asking for
 That's not really know I
@@ -1429,7 +1429,7 @@ Otherwise, a game is played
 With your good love and protection
 Show me the way
 That's supposed to be (Yeah)
-Uh, oh, oh, oh, oh, oh (We ain't stoppin', yeah)",141.0,0.2692307692307692,21,78,Eva Simons,spanish,,,,
+Uh, oh, oh, oh, oh, oh (We ain't stoppin', yeah)",141.0,0.2692307692307692,21,78,Eva Simons,spanish,,,
 juan_magán,Juan Magán,5042412,Murda,https://genius.com/Juan-magan-murda-lyrics,"I call it murda, you are killing my soul
 I call it murda, but can't tell a soul
 Don't want anybody to know
@@ -1471,7 +1471,7 @@ I call it murda, but can't tell a soul
 Don't want anybody to know
 I call it murda, you are killing my soul
 I call it murda, but can't tell a soul
-Don't want anybody to know",349.0,0.56,42,75,Shermanology,spanish,,,,
+Don't want anybody to know",349.0,0.56,42,75,Shermanology,spanish,,,
 juan_magán,Juan Magán,1974785,For a night,https://genius.com/Juan-magan-for-a-night-lyrics,"I´m going crazy, I just wanna hear the beat of the night
 You and me will get together live until the morning light
 Get lost into your eyes, we will be hypnotized
@@ -1513,7 +1513,7 @@ With you can touch the sky
 Not searching 4 someone who give the typical love
 Live the magic of the moment is but I wanna feel with you
 It doesn´t have to be taboo
-I'll show you what that I can do",380.0,0.875,42,48,,spanish,,,,
+I'll show you what that I can do",380.0,0.875,42,48,,spanish,,,
 juan_magán,Juan Magán,8340229,DOSE,https://genius.com/Juan-magan-dose-lyrics,"Trynna' get that
 Trynna′ get that
 Trynna' get that
@@ -1543,7 +1543,7 @@ Trynna′ get that
 Trynna' get that
 Trynna' get that
 Trynna′ get that
-Trynna′ get that",152.0,0.4347826086956521,30,69,,spanish,,,,
+Trynna′ get that",152.0,0.4347826086956521,30,69,,spanish,,,
 juan_magán,Juan Magán,9127448,Quiero que sepas (English translation),https://genius.com/Juan-magan-quiero-que-sepas-english-translation-lyrics,"All of my friends ask me to forget you already
 They don't know nor what they say
 I'll never forget you
@@ -1604,7 +1604,7 @@ The sweat from your body
 I want you to know
 I never left, baby
 (It's not romantic) I never left, baby
-I never left, baby",352.0,0.7176470588235294,61,85,,spanish,,,,
+I never left, baby",352.0,0.7176470588235294,61,85,,spanish,,,
 ana_tijoux,Ana Tijoux,734860,Sube,https://genius.com/Ana-tijoux-sube-lyrics,"We dug the roots of evilness like the hex of a curse
 Plant the seeds in the fertile soil of resistance
 If there's a fruit, eat it so we return blessed to the dirt
@@ -1622,7 +1622,7 @@ They try to shit on us, we turned them into composts
 Tried to beef with us, they turned it into pot-roast
 Crisis type of opportunity timeless like life's broke
 In a flash they could crash like a stock market
-Hot garbage, trash, we the cream of the crop harvest",147.0,0.2950819672131147,18,61,Invincible,spanish,,,,
+Hot garbage, trash, we the cream of the crop harvest",147.0,0.2950819672131147,18,61,Invincible,spanish,,,
 ana_tijoux,Ana Tijoux,9942332,Tu sae,https://genius.com/Ana-tijoux-tu-sae-lyrics,"When them rebels come back around, them devils start backin' down
 Pigs start crackin' down, see us and pat down
 Brrap! Go the rounds and the cats will wave a gat around
@@ -1646,7 +1646,7 @@ But the streets still told who got the props with
 We were recipients wanted all the gold like olympians
 So platinum plaques and we ain't ever goin' back to the trench again
 Livin' our dreams so don't wake us with the pinch again
-And if you don't know, now you know",224.0,0.2857142857142857,24,84,Talib Kweli; Posdnuos,spanish,,,,
+And if you don't know, now you know",224.0,0.2857142857142857,24,84,Talib Kweli; Posdnuos,spanish,,,
 ana_tijoux,Ana Tijoux,744189,Sube (feat. Invincible),https://genius.com/Ana-tijoux-sube-feat-invincible-lyrics,"We dug the roots of evilness like a hex or a curse
 Plant the seeds in the fertile soil of resistance
 If there's a fruit, eat it so we return blessed to the dirt
@@ -1661,4 +1661,4 @@ More than organized form the rivers ocean ponds flow
 They try to shit on us, we turned tit into compost
 Tried to beef with us, they turned into pot-roast
 Crisis type of opportunity timeless like clock's broke
-In a flash they could crash like a stock market",124.0,0.3125,15,48,,spanish,,,,
+In a flash they could crash like a stock market",124.0,0.3125,15,48,,spanish,,,
