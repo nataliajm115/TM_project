@@ -25,24 +25,22 @@ https://corefl.learnercorpora.com/search_simple
 
 
 ## A tentative list of milestones for the project
-| Milestone | Deadline | Who     |
-|---|---|---------|
-| README up with project plan | April 14 | All     |
-| Finalize language classes & artist lists | April 17 | All     |
-| Data collection – language group 1 (SoundCloud/Genius) | April 21 | All     |
-| Source & preprocess training text corpora | April 21 | TBD     |
-| **Project update 1** | **April 24** | **All** |
-| Data cleaning, language filtering, verse segmentation | April 28 | All     |
-| Baseline model (TF-IDF + classifier) | May 2 | TBD     |
-| Fine-tuning on lyrics data | May 5 | TBD     |
-| Evaluation & error analysis | May 7 | TBD     |
-| **Project update 2** | **May 8** | **All** |
-| Write report | May 12–18 | All     |
-| Prepare presentation slides | May 15–18 | All     |
-| **In-class presentations** | **May 19/22** | **All** |
-| **Final submission** | **May 22 23:59 CEST** | **All** |
+| Milestone                                              | Deadline              | Who     |
+|--------------------------------------------------------|-----------------------|---------|
+| README up with project plan                            | April 14              | All     |
+| Finalize language classes & artist lists               | April 17              | Natalia |
+| Data collection – language group 1 (SoundCloud/Genius) | April 21              | Natalia |
+| Source & preprocess training text corpora              | April 21              | Natalia |
+| **Project update 1**                                   | **April 24**          | **All** |
+| Data cleaning, language filtering, verse segmentation  | April 10              | Natalia |
+| Baseline model (SVM)                                   | May 10                | Fela    |
+| Evaluation & error analysis                            | May 7                 | TBD     |
+| **Project update 2**                                   | **May 12**            | **All** |
+| Write report                                           | May 12–18             | All     |
+| Prepare presentation slides                            | May 15–18             | All     |
+| **In-class presentations**                             | **May 19/22**         | **All** |
+| **Final submission**                                   | **May 22 23:59 CEST** | **All** |
 
 ## Documentation
 
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
-

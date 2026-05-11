@@ -37,7 +37,6 @@ L1_FILES = {
 
 
 def load_and_tag(input_dir: Path) -> pd.DataFrame:
-    """Load each per-L1 CSV, add L1 column, concatenate."""
     frames = []
     for l1, fname in L1_FILES.items():
         path = input_dir / fname
@@ -45,6 +44,14 @@ def load_and_tag(input_dir: Path) -> pd.DataFrame:
             print(f"  [WARN] {path} not found — skipping {l1}")
             continue
         df = pd.read_csv(path)
+        # Normalize: some L1 corpora call the column 'english_only_text',
+        # others call it 'text'. Coalesce into 'text'.
+        if "english_only_text" in df.columns:
+            if "text" in df.columns:
+                df["text"] = df["text"].fillna(df["english_only_text"])
+            else:
+                df = df.rename(columns={"english_only_text": "text"})
+            df = df.drop(columns=["english_only_text"], errors="ignore")
         df["L1"] = l1
         print(f"  {l1:8s}: {len(df):4d} songs, {df['artist_slug'].nunique():3d} artists")
         frames.append(df)
