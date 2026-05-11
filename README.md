@@ -43,4 +43,29 @@ https://corefl.learnercorpora.com/search_simple
 
 ## Documentation
 
-This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
+### What this repo does
+
+We train an SVM to predict a singer's first language (Spanish, Italian, or French) from their English-language lyrics, 
+a Native Language Identification (NLI) task on song lyrics.
+
+### Repository structure
+
+- `build_lyrics_corpus_{spanish,italian,french}.ipynb`: corpus construction (Wikidata + MusicBrainz candidate discovery, Genius scraping, line-level English extraction via fastText)
+- `data/combined/`: final corpora and train/eval splits
+- `data/combined/combine_and_split.py`: combines per-L1 corpora and produces artist-level train/eval splits
+- `SVM_NLI_TextMining.ipynb`: classifier training and evaluation
+- `training_data.md`: corpus statistics
+
+### Corpus
+
+99 songs by 36 artists (63 Spanish / 24 Italian / 12 French), constructed by scraping Genius lyrics and extracting only 
+English-classified lines via fastText (confidence ≥ 0.7). Split 80/20 at the artist level, 
+stratified by L1, with `random_state=42`. See `training_data.md` for full statistics.
+
+### Reproducing results
+
+1. Add a Genius API token to `.env` (`GENIUS_TOKEN=...`)
+2. Open `SVM_NLI_TextMining.ipynb` and run top to bottom
+
+To rebuild the corpus from scratch (several hours), run the three `build_lyrics_corpus_*.ipynb` notebooks first, then 
+`python data/combined/combine_and_split.py --input-dir data/combined --output-dir data/combined`.
