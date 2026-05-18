@@ -53,7 +53,8 @@ a Native Language Identification (NLI) task on song lyrics.
 - `build_lyrics_corpus_{spanish,italian,french}.ipynb`: corpus construction (Wikidata + MusicBrainz candidate discovery, Genius scraping, line-level English extraction via fastText)
 - `data/combined/`: final corpora and train/eval splits
 - `data/combined/combine_and_split.py`: combines per-L1 corpora and produces artist-level train/eval splits
-- `SVM_NLI_TextMining.ipynb`: classifier training and evaluation
+- `SVM_NLI_TextMining.ipynb`: baseline classifier training
+- `NLI_improved.ipynb`: final model training and evaluation
 - `training_data.md`: corpus statistics
 
 ### Corpus
