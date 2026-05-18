@@ -59,9 +59,10 @@ a Native Language Identification (NLI) task on song lyrics.
 
 ### Corpus
 
-99 songs by 36 artists (63 Spanish / 24 Italian / 12 French), constructed by scraping Genius lyrics and extracting only 
-English-classified lines via fastText (confidence ≥ 0.7). Split 80/20 at the artist level, 
-stratified by L1, with `random_state=42`. See `training_data.md` for full statistics.
+The current dataset contains 165 training songs labelled by the artist's L1: French (75), Spanish (59), and Italian 
+(31). Lyrics were collected from Genius and processed to retain English-language material. The modelling experiments use
+stratified five-fold cross-validation on the training set, with an additional disjoint held-out evaluation set used to 
+assess generalisation.
 
 ### Reproducing results
 
