@@ -5,6 +5,7 @@ Inputs (expected in --input-dir, defaults to ./):
     english_extracted_corpus_spanish.csv
     english_extracted_corpus_italian.csv
     english_extracted_corpus_french.csv
+    english_extracted_corpus_chinese.csv",
 
 Each input CSV must have at least: artist_slug, artist_name, song_id, title, text
 
@@ -33,6 +34,7 @@ L1_FILES = {
     "spanish": "english_extracted_corpus_spanish.csv",
     "italian": "english_extracted_corpus_italian.csv",
     "french":  "english_extracted_corpus_french.csv",
+    "chinese": "english_extracted_corpus_chinese.csv",
 }
 
 
